@@ -1,0 +1,12 @@
+{
+    "RoslynExtensionsOptions": {
+      "EnableAnalyzersSupport": true,
+      "LocationPaths": ["./NuGet/microsoft.unity.analyzers"]
+    },
+    "FormattingOptions": {
+      "organizeImports": false,
+      "UseTabs": false,
+      "TabSize": 4,
+      "IndentationSize": 4
+    }
+  }
